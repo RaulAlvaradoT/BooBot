@@ -1,0 +1,234 @@
+[
+    {
+        "keywords":  [
+            "hola",
+            "holi",
+            "hola!",
+            "que tal?",
+            "ola",
+            "ole",
+            "inicio",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "me dieron este número",
+            "que pasa bro?",
+            "que pasa bro",
+            "¿que pasa bro?",
+            "holis",
+            "holiwis",
+            "que onda?",
+            "¿que onda?",
+            "que onda",
+            "que pasa chavales",
+            "que pasa chavales?",
+            "¿que pasa chavales?",
+            "whats up bro?",
+            "whats up bro",
+            "whats up",
+            "whats up?",
+            "buenas chavales",
+            "hello",
+            "hola bebé",
+            "hi",
+            "ciao",
+            "bonjour",
+            "hallo",
+            "óla",
+            "Hej",
+            "namasté",
+            "aloja",
+            "olá",
+            "olá bom dia",
+            "Quibo",
+            "que hubo",
+            "que hubo?",
+            "do you love?",
+            "hola boo",
+            "boo",
+            "holaa",
+            "holaaa",
+            "quisiera saber si venden"
+        ],
+        "key": "STEP_SALUDO"
+    },
+    {
+        "keywords":  [
+            "información",
+            "informacion",
+            "info"
+        ],
+        "key": "STEP_INFO"
+    },
+    {
+        "keywords":  [
+            "catalogo",
+            "ropa",
+            "tenis",
+            "sueter",
+            "falda",
+            "pantalón",
+            "catálogo"
+        ],
+        "key": "STEP_CAT"
+    },
+    {
+        "keywords":  [
+            "redes",
+            "contacto"
+        ],
+        "key": "STEP_REDES"
+    },
+    {
+        "keywords":  [
+            "horario",
+            "que horario tienen?",
+            "hasta que hora cierran?",
+            "esta abierto?",
+            "abierto",
+            "hora"
+        ],
+        "key": "STEP_HORARIO"
+    },
+    {
+        "keywords":  [
+            "ubicacion",
+            "ubi",
+            "ubicación",
+            "donde",
+            "localizacion",
+            "donde es",
+            "where",
+            "donde mero wey?",
+            "donde mero wey",
+            "dode mero?",
+            "donde mero",
+            "estan en saltillo",
+            "pais",
+            "estado",
+            "municipio"
+        ],
+        "key": "STEP_UBI"
+    },
+    {
+        "keywords":  [
+            "a cerca de boobot",
+            "boo",
+            "boobot",
+            "bot"
+        ],
+        "key": "STEP_ABOUT"
+    },
+    {
+        "keywords":  [
+            "hombres",
+            "hombre",
+            "men",
+            "mens",
+            "vato",
+            "vatos"
+        ],
+        "key": "STEP_HOMBRES"
+    },
+    {
+        "keywords":  [
+            "mujeres",
+            "lady",
+            "ladys",
+            "women",
+            "womens",
+            "viejas",
+            "vieja",
+            "ruca",
+            "rucas"
+        ],
+        "key": "STEP_MUJERES"
+    },
+    {
+        "keywords":  [
+            "niños"
+        ],
+        "key": "STEP_NIÑOS"
+    },
+    {
+        "keywords":  [
+            "web",
+            "pagina web"
+        ],
+        "key": "STEP_WEB"
+    },
+    {
+        "keywords":  [
+            "instagram",
+            "ig"
+        ],
+        "key": "STEP_IG"
+    },
+    {
+        "keywords":  [
+            "facebook",
+            "fb"
+        ],
+        "key": "STEP_FB"
+    },
+    {
+        "keywords":  [
+            "¿quién eres?",
+            "dime quién eres",
+            "¿quien eres?",
+            "quién eres",
+            "¿qué eres?",
+            "qué eres"
+        ],
+        "key": "STEP_QUIENSOY"
+    },
+    {
+        "keywords":  [
+            "dime quién te creó",
+            "¿quién te creó?",
+            "quién te creó",
+            "¿quién te hizó?",
+            "¿quién es tu creador?"
+        ],
+        "key": "STEP_CREADOR"
+    },
+    {
+        "keywords":  [
+            "te quiero invitar a salir"
+        ],
+        "key": "STEP_MESSI"
+    },
+    {
+        "keywords":  [
+            "tonto",
+            "hijo de puta",
+            "estupido",
+            "pendejo",
+            "puñetas",
+            "chupapijas",
+            "bot de mierda",
+            "gracias por nada",
+            "basura",
+            "culo,",
+            "no mames",
+            "motherfucker",
+            "puto",
+            "puta",
+            "gonorrea",
+            "tu no mete cabra saramambiche"
+        ],
+        "key": "STEP_INSULTO"
+    },
+    {
+        "keywords":  [
+            "muchas gracias",
+            "ok",
+            "gracias",
+            "gracias bro",
+            "sos un capo",
+            "i love you",
+            "vale gracias"
+        ],
+        "key": "STEP_GRACIAS"
+    }
+]

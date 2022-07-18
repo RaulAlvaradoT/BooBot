@@ -1,0 +1,166 @@
+{
+    "DEFAULT":{
+        "replyMessage":[
+            "Esto es una respuesta automatizada\n ",
+            "Una disculpa, estoy usando mi celular para un proyecto de ",
+            "inteligencia artificial para crear un bot para la universidad, si quieres probarlo escribe Hola\n",
+            "Si nececitas hablar conmigo con urgencia llamame"
+        ],
+        "media":null,
+        "trigger":null
+    },
+        "STEP_SALUDO":{
+        "replyMessage":["Tambien puedes probar distintas palabras para intereactuar"],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"Hola! como estas?",
+            "message":"Mi nombre es *_BooBot_*, un chatbot de la empresa Cuidado Con El Perro\nA continuacion tienes algunas funciones disponibles:",
+            "buttons":[
+                {"body":"Información"},
+                {"body":"Catálogo"},
+                {"body":"Redes"}
+            ]
+        }        
+    },
+    "STEP_INFO":{
+        "replyMessage":["🕑🌎"],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Qué te interesa consultar?",
+            "message":"Estas son algunas opciones:",
+            "buttons":[
+                {"body":"Horario"},
+                {"body":"Ubicación"},
+                {"body":"A cerca de BooBot"}
+            ]
+        }
+    },
+    "STEP_CAT":{
+        "replyMessage":["👕👖"],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Qué catálogo buscas?",
+            "message":"Tenemos estas opciones:",
+            "buttons":[
+                {"body":"Hombres"},
+                {"body":"Mujeres"},
+                {"body":"Niños"}
+            ]
+        }
+    },
+    "STEP_REDES":{
+        "replyMessage":["📸📱"],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"Aquí estan nustras redes",
+            "message":"Tenemos estas opciones:",
+            "buttons":[
+                {"body":"Web"},
+                {"body":"Instagram"},
+                {"body":"Facebook"}
+            ]
+        }
+    },
+    "STEP_HORARIO":{
+        "replyMessage":[
+            "🕑 *Nuestros horarios son:* 🕑\n",
+            "*De lunes a viernes:* \n",
+            "De 8:00am a 8:00pm \n\n",
+            "*Sabado y domingo:* \n",
+            "De 8:00am a 4:00pm"            
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_UBI":{
+        "replyMessage":[
+            "🌎 Dirección: 🌎\n",
+            "Centro, C. Manuel Acuña 337, Zona Centro, 25000 Saltillo, Coah.\n\n",
+            "https://goo.gl/maps/pTvPdKzhsPypFxGQA"
+        ],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_ABOUT":{
+        "replyMessage":["😎👌"],
+        "media":null,
+        "trigger":null,
+        "actions":{
+            "title":"¿Qué es lo que te interesa saber de mí?",
+            "message":"Estas son algunas opciones:",
+            "buttons":[
+                {"body":"Dime quién eres"},
+                {"body":"Dime quién te creó"},
+                {"body":"Te quiero invitar a salir"}
+            ]
+        }        
+    },
+    "STEP_HOMBRES":{
+        "replyMessage":["♂🚹"],
+        "media":"CatalogoHombres.pdf",
+        "trigger":null
+    },
+    "STEP_MUJERES":{
+        "replyMessage":["♀🚺"],
+        "media":"CatalogoMujeres.pdf",
+        "trigger":null
+    },
+    "STEP_NIÑOS":{
+        "replyMessage":["👶🏻👧🏼"],
+        "media":"CatalogoNiños.pdf",
+        "trigger":null
+    },
+    "STEP_WEB":{
+        "replyMessage":["https://www.cuidadoconelperro.com.mx/"],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_IG":{
+        "replyMessage":["https://www.instagram.com/cuidadoconelperromx/"],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_FB":{
+        "replyMessage":["https://www.facebook.com/cuidadoconelperromx"],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_QUIENSOY":{
+        "replyMessage":["Soy un chatbot implementado a través de Node Javascript en WhatsApp\n",
+        "Usado para un proyecto de la materia Inteligencia Artificial de la Facultad de Sistemas ",
+        "impartida por el ingeniero Enrique Flores"],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_CREADOR":{
+        "replyMessage":[
+            "Mi creador es el Software Developer Leifer Mendez\n",
+            "Este es su Github:",
+            "https://github.com/leifermendez"],
+        "media":null,
+        "trigger":null
+    },
+    "STEP_MESSI":{
+        "replyMessage":[
+            "Ehmm..."
+    ],
+        "media":"futbol.opus",
+        "trigger":null
+    },
+    "STEP_INSULTO":{
+        "replyMessage":[
+            "አትሳደቡኝ።"
+        ],
+        "media":"Nomeinsultes.jpg",
+        "trigger":null
+    },
+    "STEP_GRACIAS":{
+        "replyMessage":["Gracias a ti!"],
+        "media":null,
+        "trigger":null
+    }
+}

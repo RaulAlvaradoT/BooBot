@@ -1,0 +1,35 @@
+{
+    "name": "Proyecto BooBot",
+    "description": "",
+    "repository": "",
+    "logo": "",
+    "keywords": [
+      "nodejs",
+      "whatsapp",
+      "bot",
+      "chatbot",
+      "dialogflow"
+    ],
+    "addons": [
+    ],
+    "buildpacks": [
+      {
+        "url": ""
+      },
+      {
+        "url": ""
+      }
+    ],
+    "env": {
+      "SAVE_MEDIA": "false",
+      "DATABASE": {
+        "description": "'none', 'mysql', 'dialogflow' por defecto 'none'",
+        "value": "none"
+      },
+      "LANGUAGE": "es",
+      "SQL_HOST":"your_host",
+      "SQL_USER":"your_user",
+      "SQL_PASS":"your_password",
+      "SQL_DATABASE":"your_database"
+    }
+  }
