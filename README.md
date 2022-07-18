@@ -8,6 +8,7 @@
 ## Utilizamos:
 - [Visual Studio Code](https://code.visualstudio.com)
 - [NodeJS](https://nodejs.org/es)
+- [Repositorio original](https://github.com/leifermendez/bot-whatsapp)
 
 ## Documentación:
 - [Visual Studio Code](https://code.visualstudio.com/docs)
