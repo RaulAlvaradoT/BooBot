@@ -12,3 +12,6 @@
 ## Documentación:
 - [Visual Studio Code](https://code.visualstudio.com/docs)
 - [NodeJS](https://nodejs.org/es/docs/)
+
+## Diagrama:
+![](Diagrama.png)
